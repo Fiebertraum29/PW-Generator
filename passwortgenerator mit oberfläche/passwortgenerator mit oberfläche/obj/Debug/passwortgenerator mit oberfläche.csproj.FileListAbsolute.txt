@@ -1,0 +1,10 @@
+D:\AKBK\Klasse 12\SW-PRO\passwortgenerator mit oberfläche\passwortgenerator mit oberfläche\bin\Debug\passwortgenerator mit oberfläche.exe.config
+D:\AKBK\Klasse 12\SW-PRO\passwortgenerator mit oberfläche\passwortgenerator mit oberfläche\bin\Debug\passwortgenerator mit oberfläche.exe
+D:\AKBK\Klasse 12\SW-PRO\passwortgenerator mit oberfläche\passwortgenerator mit oberfläche\bin\Debug\passwortgenerator mit oberfläche.pdb
+D:\AKBK\Klasse 12\SW-PRO\passwortgenerator mit oberfläche\passwortgenerator mit oberfläche\obj\Debug\passwortgenerator mit oberfläche.csprojAssemblyReference.cache
+D:\AKBK\Klasse 12\SW-PRO\passwortgenerator mit oberfläche\passwortgenerator mit oberfläche\obj\Debug\passwortgenerator_mit_oberfläche.Properties.Resources.resources
+D:\AKBK\Klasse 12\SW-PRO\passwortgenerator mit oberfläche\passwortgenerator mit oberfläche\obj\Debug\passwortgenerator mit oberfläche.csproj.GenerateResource.cache
+D:\AKBK\Klasse 12\SW-PRO\passwortgenerator mit oberfläche\passwortgenerator mit oberfläche\obj\Debug\passwortgenerator mit oberfläche.csproj.CoreCompileInputs.cache
+D:\AKBK\Klasse 12\SW-PRO\passwortgenerator mit oberfläche\passwortgenerator mit oberfläche\obj\Debug\passwortgenerator mit oberfläche.exe
+D:\AKBK\Klasse 12\SW-PRO\passwortgenerator mit oberfläche\passwortgenerator mit oberfläche\obj\Debug\passwortgenerator mit oberfläche.pdb
+D:\AKBK\Klasse 12\SW-PRO\passwortgenerator mit oberfläche\passwortgenerator mit oberfläche\obj\Debug\passwortgenerator_mit_oberfläche.Form1.resources
